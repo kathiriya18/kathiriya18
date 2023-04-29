@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+   float base salary,hra,da,ta,gs;
+   clrscr();
+   printf("enter basesa salary");
+   scanf("%f",&basesalary);
+   printf("salary%0f",basesalary);
+   hra=(basesalary*10)/100;
+   da=
